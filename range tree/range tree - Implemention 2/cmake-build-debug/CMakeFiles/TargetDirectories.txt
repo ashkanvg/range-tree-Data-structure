@@ -1,0 +1,3 @@
+C:/Users/Ashkan/Desktop/DS HW/Final Project/p2-second/cmake-build-debug/CMakeFiles/p2_second.dir
+C:/Users/Ashkan/Desktop/DS HW/Final Project/p2-second/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ashkan/Desktop/DS HW/Final Project/p2-second/cmake-build-debug/CMakeFiles/rebuild_cache.dir
